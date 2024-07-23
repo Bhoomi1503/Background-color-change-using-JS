@@ -1,0 +1,15 @@
+body{
+    background-color: red;
+    text-align: center;
+    margin-top: 300px;
+}
+span{
+    color: lightblue;
+}
+button{
+    border: none;
+    border-radius: 7px;
+    background-color: black;
+    color: beige;
+    padding: 7px;
+}
